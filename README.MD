@@ -1,6 +1,6 @@
 # RimWorld-zh Official Website 边缘汉化组官方网站
 
-汉化组官网：[RimWorld-zh.com](htttp://rimworld-zh.com)
+汉化组官网：[RimWorld-zh.com](http://rimworld-zh.com)
 
 本仓库所存放的是用于生成网站静态文件的源文件
 

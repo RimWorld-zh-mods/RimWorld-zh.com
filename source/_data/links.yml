@@ -1,14 +1,14 @@
 www.gamejilu.com:
     link: http://www.gamejilu.com/category/project/rimworld/
-    avatar: ../../images/avatar_gamjilu.jpg
+    avatar: ../../images/links/avatar_gamjilu.jpg
     descr: "饼叔的游戏笔记"
 
 rimworld.huiji.wiki:
     link: http://rimworld.huiji.wiki
-    avatar: ../../images/avatar_wiki.jpg
+    avatar: ../../images/links/avatar_wiki.jpg
     descr: "官方中文维基"
 
 贴吧 - RimWorld吧:
     link: http://tieba.baidu.com/f?kw=rimworld
-    avatar: ../../images/avatar_tieba.jpg
+    avatar: ../../images/links/avatar_tieba.jpg
     descr: "水水更健康"

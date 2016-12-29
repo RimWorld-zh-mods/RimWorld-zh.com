@@ -56,7 +56,7 @@ date: 2016-12-28 02:02:53
 ![](../../images/mods/edb/01.jpg)  
 ![](../../images/mods/edb/02.jpg)  
 
-> <i class="fa fa-exclamation-triangle" aria-hidden="true" style="color:#a40000"> 注意</i>
+> <i class="fa fa-lightbulb-o" aria-hidden="true" style="color:#0075a9"> 提示</i>
 角色人数过多、物品过多、花费点数过高等，有可能导致开局时人物消失。  
 如果你遇到无法启用「精心准备」的问题，可以尝试以下几种方法：
 * 重启游戏

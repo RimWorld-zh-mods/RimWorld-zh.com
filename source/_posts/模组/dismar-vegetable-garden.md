@@ -43,9 +43,10 @@ thumbnail: ../../images/mods/dismar/Art1.jpg
 
 起灵吐槽：每次更新都加新内容，你考虑过汉化的感受吗？以前的贴图好丑，新版终于找到专业画师帮忙画了。
 
-> <i class="fa fa-exclamation-triangle" aria-hidden="true" style="color:#a40000"> 注意</i>
-安装「菜园子」后，种植棉花、恶魔菇不再直接产出布了，而是产出各种原材料，需要研究「恶魔菇」解锁「纺织机」，方能纺织成布。  
-「肥料」在「屠宰台」制作。
+> <i class="fa fa-lightbulb-o" aria-hidden="true" style="color:#0075a9"> 提示</i>
+种植棉花、恶魔菇不再直接产出布了，而是产出各种原材料，需要研究「恶魔菇」解锁「纺织机」，方能纺织成布;  
+「肥料」在「屠宰台」制作;  
+「炉灶（电力）」需要研究「VG：高级烹饪」。
 
 
 ![](../../images/mods/dismar/vg017_000.png)  

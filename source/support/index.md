@@ -11,7 +11,7 @@ thumbnail: ../../images/about_thumbnail.png
 本汉化组并非游戏原版内容的翻译团队（虽然两个团队有交集），而是专门从事模组汉化的团队。
 
 ## 支付宝
-![Alipay](../../images/support_alipay.png)
+![Alipay](../../images/links/support_alipay.png)
 
 ## 微信支付
-![Wechat](../../images/support_wechat.png)
+![Wechat](../../images/links/support_wechat.png)

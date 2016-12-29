@@ -84,6 +84,6 @@ deploy:
     #github: git@github.com:RimWorld-zh/RimWorld-zh.github.io.git
     #coding: git@git.coding.net:duduluu/RimWorld-zh.git
     github: https://github.com/RimWorld-zh/RimWorld-zh.github.io.git
-    #coding: https://git.coding.net/duduluu/RimWorld-zh.git
+    coding: https://git.coding.net/duduluu/RimWorld-zh.git
   branch: master
 

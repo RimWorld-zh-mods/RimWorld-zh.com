@@ -19,6 +19,8 @@ thumbnail: ../../images/mods/dismar/Art1.jpg
 
 > 原始发布页面：<a href="https://ludeon.com/forums/index.php?topic=12934.0"><i class="fa fa-link" aria-hidden="true" /> Ludeon 论坛</a>
 
+> 模组版本：<i class="fa fa-puzzle-piece" aria-hidden="true"> 5.3b</i>
+
 > 适配游戏版本：<i class="fa fa-tag" aria-hidden="true"> 0.16.1393</i>
 
 > 翻译内置进度：<i class="fa fa-exclamation-circle" aria-hidden="true" title="未内置，请从汉化组分流点下载" style="color:#b7aa00"> 未内置</i>

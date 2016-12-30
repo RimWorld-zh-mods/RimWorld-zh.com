@@ -21,13 +21,15 @@ thumbnail: ../../images/mods/mod_default_thumbnail.png
 
 > 源代码：<a href="" ><i class="fa fa-github" aria-hidden="true" /> GitHub</a>
 
-> 许可协议：<a href="" ><i class="fa fa-balance-scale" aria-hidden="true" /> GPLv3</a>
+> 许可协议：<a href="" ><i class="fa fa-balance-scale" aria-hidden="true" /> CC BY-SA 4.0</a>
+
+> 模组版本：<i class="fa fa-puzzle-piece" aria-hidden="true"> </i>
 
 > 适配游戏版本：<i class="fa fa-tag" aria-hidden="true"> 0.16.1393</i>
 
 > 翻译内置进度：
 <i class="fa fa-exclamation-circle" aria-hidden="true" title="未内置，请从汉化组分流点下载" style="color:#b7aa00"> 未内置</i>
-<i class="fa fa-check-circle" aria-hidden="true" title="翻译已内置于原作者的模组" style="color:#097c25"> 已内置</i>
+<i class="fa fa-check-circle" aria-hidden="true" title="翻译已内置于原作者的模组，可直接从Steam创意工坊订阅" style="color:#097c25"> 已内置</i>
 
 ## 订阅与下载
 
@@ -74,3 +76,5 @@ thumbnail: ../../images/mods/mod_default_thumbnail.png
 提示内容
 
 正文
+
+> 教学视频：<a href="" ><i class="fa fa-television" aria-hidden="true" style="color:#ff85ad" /> bilibili</a>

@@ -21,9 +21,11 @@ thumbnail: ../../images/mods/mod_default_thumbnail.png
 
 > 许可协议：<a href="https://github.com/Ratysz/MadSkills/blob/master/License.txt" ><i class="fa fa-balance-scale" aria-hidden="true" /> GPLv3</a>
 
+> 模组版本：<i class="fa fa-puzzle-piece" aria-hidden="true"> A16-1.2.1</i>
+
 > 适配游戏版本：<i class="fa fa-tag" aria-hidden="true"> 0.16.1393</i>
 
-> 翻译内置进度：<i class="fa fa-check-circle" aria-hidden="true" title="翻译已内置于原作者的模组" style="color:#097c25"> 已内置</i>
+> 翻译内置进度：<i class="fa fa-check-circle" aria-hidden="true" title="翻译已内置于原作者的模组，可直接从Steam创意工坊订阅" style="color:#097c25"> 已内置</i>
 
 ## 订阅与下载
 
@@ -42,7 +44,7 @@ thumbnail: ../../images/mods/mod_default_thumbnail.png
 原版的人物技能如果不经常使用的话，经验会逐渐流失，而且会降级，这个Mod可以改变这一设定。
 
 > <i class="fa fa-lightbulb-o" aria-hidden="true" style="color:#0075a9"> 提示</i>
-此Mod有三个版本：
+此Mod有三个版本，请按照自己的需求**择一安装**！
 
 * Mad Skills：完全版，技能经验不会减退
 * Mad Skills P：50%版，技能减退速度修改为原版的一半

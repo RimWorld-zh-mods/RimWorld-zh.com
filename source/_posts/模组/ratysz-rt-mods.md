@@ -1,5 +1,5 @@
 ---
-title: "[Ratysz] RT Mods RT系列Mod"
+title: "[Ratysz] RT Mods RT系列模组"
 categories: 模组
 thumbnail: ../../images/mods/ratysz/rt_capture0.png
 date: 2016-12-31 03:14:00
@@ -9,7 +9,7 @@ date: 2016-12-31 03:14:00
 
 <!--more-->
 
-# [Ratysz] RT Mods RT系列Mod
+# [Ratysz] RT Mods RT系列模组
 
 ## 模组信息
 
@@ -106,5 +106,5 @@ date: 2016-12-31 03:14:00
 为电力开关增加**紧急电源**功能，在一侧电网电力不足时自动接通，一侧电网中的电池充满时自动断开。
 
 > <i class="fa fa-exclamation-triangle" aria-hidden="true" style="color:#a40000"> 兼容性警告！</i>
-**RT Power Switch 紧急电源**与另一个同名模组**Power Switch 电路控制系统（作者Haplo）**有排序要求：  
+[**RT Power Switch 紧急电源**](../ratysz-rt-mods/)与另一个同名模组[**Power Switch 电路控制**](../haplo-power-switch/)（作者Haplo）有排序要求：  
 RT的Power Switch必须在Haplo的Power Switch之前激活！否则会导致一些莫名其妙的问题！

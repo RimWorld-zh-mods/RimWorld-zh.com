@@ -21,7 +21,11 @@ date: 2016-12-28 02:02:53
 
 > 原始发布页面：<a href="https://ludeon.com/forums/index.php?topic=6261.0"><i class="fa fa-link" aria-hidden="true" /> Ludeon 论坛</a>
 
-> 模组版本：<i class="fa fa-puzzle-piece" aria-hidden="true"> 0.16.1.2</i>
+> 源代码：<a href="https://github.com/edbmods/EdBPrepareCarefully" ><i class="fa fa-github" aria-hidden="true" /> GitHub</a>
+
+> 许可协议：<a href="https://github.com/edbmods/EdBPrepareCarefully/blob/develop/LICENSE" ><i class="fa fa-balance-scale" aria-hidden="true" /> MIT</a>
+
+> 模组版本：<i class="fa fa-puzzle-piece" aria-hidden="true"> 0.16.1.4</i>
 
 > 适配游戏版本：<i class="fa fa-tag" aria-hidden="true"> 0.16.1393</i>
 

@@ -1,17 +1,17 @@
 ---
-title: "[EdB] Prepare Carefully 精心准备"
+title: '[EdB] Prepare Carefully 精心准备'
 categories: 模组
 thumbnail: ../../images/mods/edb/preparecarefully.png
-date: 2016-12-28 02:02:53
+date: 2017-01-18 21:17:02
 ---
 
-> 开局时，自定义你的角色。
+> 开局时，自定义你的角色。 中文版已登录Steam工坊！
 
 <!--more-->
 
 # [EdB] Prepare Carefully 精心准备
 
-![EdBPrepareCarefully](../../images/mods/edb/preparecarefully.png)
+![EdBPrepareCarefully](../../images/mods/edb/preparecarefully_zh.png)
 
 ## 模组信息
 
@@ -33,13 +33,14 @@ date: 2016-12-28 02:02:53
 
 ## 订阅与下载
 
-> <a href="http://steamcommunity.com/sharedfiles/filedetails/?id=735106432" ><i class="fa fa-steam-square" aria-hidden="true" /> Steam-Workshop</a>
-
+> <a href="http://steamcommunity.com/sharedfiles/filedetails/?id=735106432" ><i class="fa fa-steam-square" aria-hidden="true" /> Steam-Workshop (作者原始订阅)</a>
 > <a href="https://www.dropbox.com/s/r59hmms6347rpsz/EdBPrepareCarefully-0.16.1.2.zip?dl=0" ><i class="fa fa-dropbox" aria-hidden="true" /> Dropbox (作者原始下载)</a>
-
 > <a href="https://github.com/edbmods/EdBPrepareCarefully/releases" ><i class="fa fa-github" aria-hidden="true" /> GitHub (作者原始下载)</a>
 
+> <a href="http://steamcommunity.com/sharedfiles/filedetails/?id=844988411" ><i class="fa fa-steam-square" aria-hidden="true" /> Steam-Workshop (中文版订阅)</a>
 > <a href="http://pan.baidu.com/s/1gfqQ8Xt" ><i class="fa fa-paw" aria-hidden="true" /> 百度云 (汉化组分流点)</a>
+
+> <i class="fa fa-lightbulb-o" aria-hidden="true" style="color:#0075a9"> 提示：</i>基于 MIT 许可协议，我们已将中文版发布于Steam工坊，各位可直接订阅中文版。
 
 ## 模组简介
 

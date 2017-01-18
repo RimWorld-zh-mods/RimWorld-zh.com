@@ -1,5 +1,5 @@
 ---
-title: {{ title }}
+title: "[作者] 英文原名 中文译名"
 date: {{ date }}
 categories: 模组
 thumbnail: ../../images/mods/mod_default_thumbnail.png
@@ -28,8 +28,8 @@ thumbnail: ../../images/mods/mod_default_thumbnail.png
 > 适配游戏版本：<i class="fa fa-tag" aria-hidden="true"> 0.16.1393</i>
 
 > 翻译内置进度：
-<i class="fa fa-exclamation-circle" aria-hidden="true" title="未内置，请从汉化组分流点下载" style="color:#b7aa00"> 未内置</i>
-<i class="fa fa-check-circle" aria-hidden="true" title="翻译已内置于原作者的模组，可直接从Steam创意工坊订阅" style="color:#097c25"> 已内置</i>
+<i class="fa fa-exclamation-circle" aria-hidden="true" title="翻译未内置，请从汉化组分流点下载" style="color:#b7aa00"> 未内置</i>
+<i class="fa fa-check-circle" aria-hidden="true" title="翻译已内置于原作者的模组中，可直接从Steam工坊订阅" style="color:#097c25"> 已内置</i>
 
 ## 订阅与下载
 
@@ -67,7 +67,7 @@ thumbnail: ../../images/mods/mod_default_thumbnail.png
 
 正文
 
-> <i class="fa fa-exclamation-triangle" aria-hidden="true" style="color:#a40000"> 注意</i>
+> <i class="fa fa-exclamation-triangle" aria-hidden="true" style="color:#a40000"> 警告</i>
 注意内容
 
 正文

@@ -12,6 +12,10 @@ thumbnail: ../../images/about_thumbnail.png
 The RimWorld-zh is a translation team that constructed by duduluu.  
 We focus on translating RimWorld Mods, including both of Simplified Chinese and Tranditianal Chinese.
 
+关于翻译内置进度：
+<i class="fa fa-exclamation-circle" aria-hidden="true" title="未内置，请从汉化组分流点下载" style="color:#b7aa00"> 未内置</i> 表示翻译未内置，请从汉化组分流点下载
+<i class="fa fa-check-circle" aria-hidden="true" title="翻译已内置于原作者的模组，可直接从Steam创意工坊订阅" style="color:#097c25"> 已内置</i> 表示翻译已内置于原作者的模组，可直接从Steam创意工坊订阅
+
 ## Members 成员
 
 * Biscuit (脆餅)
@@ -19,6 +23,8 @@ We focus on translating RimWorld Mods, including both of Simplified Chinese and 
 * duduluu (风之起灵)
 * Talent
 * vEd_
+* yc000764
+* 嘎骨
 
 ## Contact Us 联系我们
 

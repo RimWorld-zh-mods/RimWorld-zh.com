@@ -1,8 +1,8 @@
 ---
-title: "[Haplo] Miscellaneous Misc系列模组"
+title: '[Haplo] Miscellaneous Misc系列模组'
 categories: 模组
 thumbnail: ../../images/mods/haplo/misc.jpg
-date: 2016-12-31 18:16:41
+date: 2017-01-18 01:58:07
 ---
 
 > 殖民者编组功能、养蜂、战术计算机、探险、纳米复制仪、射击格斗训练设施、机器人、人工智能
@@ -34,16 +34,23 @@ date: 2016-12-31 18:16:41
 > <a href="http://pan.baidu.com/s/1i4LE6gt"><i class="fa fa-paw" aria-hidden="true" /> 百度云（汉化组分流点）</a>
 
 > <i class="fa fa-exclamation-triangle" aria-hidden="true" style="color:#a40000"> 注意</i>
-Misc.机器人、Misc.人工智能等部分子模组暂未更新到A16，作者在代码方面卡住了（现在多了远行队的内容，确实有难度）。  
-请大家耐心等待。
+Misc.机器人 和 Misc. 武装已更新至A16  
+Misc. 人工智能 和 Misc. 事件 两个模组暂未更新至A16  
+请大家耐心等待！
 
 ## 模组简介
 
-### Miscellaneous 'CORE' Misc. 核心
+> <i class="fa fa-exclamation-triangle" aria-hidden="true" style="color:#a40000"> 注意：Misc系列模组由一个核心模组和多个子模组组成，部分子模组需要核心模组支持才能正常运行</i>
+
+> <i class="fa fa-lightbulb-o" aria-hidden="true" style="color:#0075a9"> 提示</i>
+Misc系列模组的研究项目均带有「Misc」前缀
+
+---
 
 ![](../../images/mods/haplo/misc_core.jpg)
+### Miscellaneous 'CORE' Misc. 核心
 
-> 模组版本：<i class="fa fa-puzzle-piece" aria-hidden="true"> 0.16.2</i>
+> 模组版本：<i class="fa fa-puzzle-piece" aria-hidden="true"> 0.16.4</i>
 > 适配游戏版本：<i class="fa fa-tag" aria-hidden="true"> 0.16.1393</i>
 
 > <i class="fa fa-check-circle" aria-hidden="true" style="color:#097c25"> 不需要新建殖民地</i>
@@ -60,11 +67,12 @@ Misc.机器人、Misc.人工智能等部分子模组暂未更新到A16，作者�
 你的征召的位置和选定的殖民者就被添加进编组了。  
 按下数字键6即可将编组内的殖民者召集到预定位置。数字键6、7、8、9的用法相同。  
 
-### Misc. Bees 'n' Honey Misc. 蜜蜂与蜂蜜
+---
 
 ![](../../images/mods/haplo/misc_bees_n_honey.jpg)
+### Misc. Bees 'n' Honey Misc. 蜜蜂与蜂蜜
 
-> 模组版本：<i class="fa fa-puzzle-piece" aria-hidden="true"> 0.16.2</i>
+> 模组版本：<i class="fa fa-puzzle-piece" aria-hidden="true"> 0.16.5</i>
 > 适配游戏版本：<i class="fa fa-tag" aria-hidden="true"> 0.16.1393</i>
 
 > <i class="fa fa-check-circle" aria-hidden="true" style="color:#097c25"> 不需要新建殖民地</i>
@@ -77,9 +85,10 @@ Misc.机器人、Misc.人工智能等部分子模组暂未更新到A16，作者�
 **食物「蜂蜜」**  
 **成瘾品「蜂蜜酒」**  
 
-### Misc. Incidents Misc. 事件
+---
 
 ![](../../images/mods/haplo/misc_incidents.jpg)
+### Misc. Incidents Misc. 事件
 
 > 模组版本：<i class="fa fa-puzzle-piece" aria-hidden="true"> 0.15.5</i>
 > 适配游戏版本：<i class="fa fa-tag" aria-hidden="true"> 0.15.1284</i>
@@ -96,11 +105,12 @@ Misc.机器人、Misc.人工智能等部分子模组暂未更新到A16，作者�
 
 「注意」探险任务殖民者会离开地图数天！ 
 
-### Misc. MapGenerator Misc. 地图生成器
+---
 
 ![](../../images/mods/haplo/misc_mapgenerator.jpg)
+### Misc. MapGenerator Misc. 地图生成器
 
-> 模组版本：<i class="fa fa-puzzle-piece" aria-hidden="true"> 0.16.2</i>
+> 模组版本：<i class="fa fa-puzzle-piece" aria-hidden="true"> 0.16.6</i>
 > 适配游戏版本：<i class="fa fa-tag" aria-hidden="true"> 0.16.1393</i>
 
 > <i class="fa fa-exclamation-triangle" aria-hidden="true" style="color:#a40000"> 注意：需要新建殖民地</i>
@@ -108,11 +118,12 @@ Misc.机器人、Misc.人工智能等部分子模组暂未更新到A16，作者�
 
 地图生成类Mod，生成比原版地图建筑遗迹更复杂，更多样的建筑遗迹。
 
-### Misc. MapGen FactionBase Misc. 地图生成器-派系基地
+---
 
 ![](../../images/mods/haplo/misc_mapgenerator_factionbase.png)
+### Misc. MapGen FactionBase Misc. 地图生成器-派系基地
 
-> 模组版本：<i class="fa fa-puzzle-piece" aria-hidden="true"> 0.16.2</i>
+> 模组版本：<i class="fa fa-puzzle-piece" aria-hidden="true"> 0.16.6</i>
 > 适配游戏版本：<i class="fa fa-tag" aria-hidden="true"> 0.16.1393</i>
 
 > <i class="fa fa-check-circle" aria-hidden="true" style="color:#097c25"> 不需要新建殖民地</i>
@@ -125,12 +136,13 @@ Misc.机器人、Misc.人工智能等部分子模组暂未更新到A16，作者�
 
 你也可以通过Github贡献蓝图：[https://github.com/HaploX1/RimWorld-MapGenBaseBlueprints](https://github.com/HaploX1/RimWorld-MapGenBaseBlueprints)
 
-### Misc. Objects Misc. 武装
+---
 
 ![](../../images/mods/haplo/misc_objects.jpg)
+### Misc. Objects Misc. 武装
 
-> 模组版本：<i class="fa fa-puzzle-piece" aria-hidden="true"> 0.15.3</i>
-> 适配游戏版本：<i class="fa fa-tag" aria-hidden="true"> 0.15.1284</i>
+> 模组版本：<i class="fa fa-puzzle-piece" aria-hidden="true"> 0.16.2</i>
+> 适配游戏版本：<i class="fa fa-tag" aria-hidden="true"> 0.16.1393</i>
 
 > <i class="fa fa-check-circle" aria-hidden="true" style="color:#097c25"> 不需要新建殖民地</i>
 > <i class="fa fa-exclamation-triangle" aria-hidden="true" style="color:#a40000"> 注意：需要Misc.核心</i>
@@ -140,11 +152,12 @@ Misc.机器人、Misc.人工智能等部分子模组暂未更新到A16，作者�
 **计算机终端**：与战术计算机配合使用，召集殖民者。同时也是娱乐设施。  
 **建筑「纳米打印机」、「纳米扫描仪」**：可以对武器进行复制。研究「Misc：纳米复制」后解锁建筑。注意：复制品的品质可能不是最好的。
 
-### Misc. Training Misc. 训练设施
+---
 
 ![](../../images/mods/haplo/misc_training.jpg)
+### Misc. Training Facility Misc. 训练设施
 
-> 模组版本：<i class="fa fa-puzzle-piece" aria-hidden="true"> 0.16.1</i>
+> 模组版本：<i class="fa fa-puzzle-piece" aria-hidden="true"> 0.16.3</i>
 > 适配游戏版本：<i class="fa fa-tag" aria-hidden="true"> 0.16.1393</i>
 
 > <i class="fa fa-check-circle" aria-hidden="true" style="color:#097c25"> 不需要新建殖民地</i>
@@ -153,12 +166,13 @@ Misc.机器人、Misc.人工智能等部分子模组暂未更新到A16，作者�
 **「射击标靶」、「格斗假人」、「箭靶」**  
 用于练习射击与格斗技能，射击标靶与格斗假人可强制命令进行练习，同时也是娱乐设施。箭靶单纯作为娱乐设施。
 
-### Misc. Robot Misc. 机器人
+---
 
 ![](../../images/mods/haplo/misc_robot.jpg)
+### Misc. Robot Misc. 机器人
 
-> 模组版本：<i class="fa fa-puzzle-piece" aria-hidden="true"> 0.15.5</i>
-> 适配游戏版本：<i class="fa fa-tag" aria-hidden="true"> 0.15.1284</i>
+> 模组版本：<i class="fa fa-puzzle-piece" aria-hidden="true"> 0.16.5</i>
+> 适配游戏版本：<i class="fa fa-tag" aria-hidden="true"> 0.16.1393</i>
 
 > <i class="fa fa-check-circle" aria-hidden="true" style="color:#097c25"> 不需要新建殖民地</i>
 > <i class="fa fa-exclamation-triangle" aria-hidden="true" style="color:#a40000"> 注意：需要Misc.核心</i>
@@ -166,9 +180,10 @@ Misc.机器人、Misc.人工智能等部分子模组暂未更新到A16，作者�
 **专用机器人「搬运机」、「清洁机」**  
 **新贸易商类型「机器人贸易商」**：出售以上两种专用机器人的基站，一个基站装备一个机器人。
 
-### Misc. MAI Misc. 人工智能
+---
 
 ![](../../images/mods/haplo/misc_mai.jpg)
+### Misc. MAI Misc. 人工智能
 
 > 模组版本：<i class="fa fa-puzzle-piece" aria-hidden="true"> 0.15.3</i>
 > 适配游戏版本：<i class="fa fa-tag" aria-hidden="true"> 0.15.1284</i>
@@ -183,8 +198,5 @@ Misc.机器人、Misc.人工智能等部分子模组暂未更新到A16，作者�
 分为普通型和增强型两种，普通型技能升级速度缓慢，增强型的人工智能的技能全部「双火」（兴趣度：狂热），升级很快。 
 
 ---
-
-> <i class="fa fa-lightbulb-o" aria-hidden="true" style="color:#0075a9"> 提示</i>
-Misc系列模组的研究项目均带有「Misc」前缀
 
 这是个伟大的模组，这个系列曾经的商队子模组和事件子模组，现在被官方吸收成为如今原版中的远行队。

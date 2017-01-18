@@ -42,9 +42,7 @@ date: 2016-12-31 03:14:00
 > 汉化组分流点
 > <a href="http://pan.baidu.com/s/1nuDyK45"><i class="fa fa-paw" aria-hidden="true" /> 百度云（汉化组分流点）</a>
 
-## 量子储存教学视频！！！
-
-> 教学视频：<a href="http://www.bilibili.com/video/av4478430/" ><i class="fa fa-television" aria-hidden="true" style="color:#ff85ad" /> bilibili</a>
+## 量子储存教学视频 <a href="http://www.bilibili.com/video/av4478430/" ><i class="fa fa-television" aria-hidden="true" style="color:#ff85ad" /> bilibili</a>
 
 ## 模组简介
 
@@ -52,7 +50,7 @@ date: 2016-12-31 03:14:00
 
 > 源代码：<a href="https://github.com/Ratysz/RT_QuantumStorage" ><i class="fa fa-github" aria-hidden="true" /> GitHub</a>
 > 许可协议：<a href="https://github.com/Ratysz/RT_QuantumStorage/blob/master/License.txt" ><i class="fa fa-balance-scale" aria-hidden="true" /> GPLv3</a>
-> 模组版本：<i class="fa fa-puzzle-piece" aria-hidden="true"> A16-1.0.7</i>
+> 模组版本：<i class="fa fa-puzzle-piece" aria-hidden="true"> A16-1.0.8CS</i>
 > 适配游戏版本：<i class="fa fa-tag" aria-hidden="true"> 0.16.1393</i>
 
 > <i class="fa fa-check-circle" aria-hidden="true" style="color:#097c25"> 不需要新建殖民地</i>
@@ -71,7 +69,7 @@ date: 2016-12-31 03:14:00
 
 > 源代码：<a href="https://github.com/Ratysz/RT_Fuse" ><i class="fa fa-github" aria-hidden="true" /> GitHub</a>
 > 许可协议：<a href="https://github.com/Ratysz/RT_Fuse/blob/master/License.txt" ><i class="fa fa-balance-scale" aria-hidden="true" /> GPLv3</a>
-> 模组版本：<i class="fa fa-puzzle-piece" aria-hidden="true"> A16-1.0.4</i>
+> 模组版本：<i class="fa fa-puzzle-piece" aria-hidden="true"> A16-1.0.5</i>
 > 适配游戏版本：<i class="fa fa-tag" aria-hidden="true"> 0.16.1393</i>
 
 > <i class="fa fa-check-circle" aria-hidden="true" style="color:#097c25"> 不需要新建殖民地</i>
@@ -82,7 +80,7 @@ date: 2016-12-31 03:14:00
 
 > 源代码：<a href="https://github.com/Ratysz/RT_SolarFlareShield/tree/master/Source" ><i class="fa fa-github" aria-hidden="true" /> GitHub</a>
 > 许可协议：<a href="https://github.com/Ratysz/RT_SolarFlareShield/blob/master/License.txt" ><i class="fa fa-balance-scale" aria-hidden="true" /> GPLv3</a>
-> 模组版本：<i class="fa fa-puzzle-piece" aria-hidden="true"> A16-1.1.1</i>
+> 模组版本：<i class="fa fa-puzzle-piece" aria-hidden="true"> A16-1.1.2</i>
 > 适配游戏版本：<i class="fa fa-tag" aria-hidden="true"> 0.16.1393</i>
 
 > <i class="fa fa-check-circle" aria-hidden="true" style="color:#097c25"> 不需要新建殖民地</i>
@@ -98,12 +96,13 @@ date: 2016-12-31 03:14:00
 
 > 源代码：<a href="https://github.com/Ratysz/RT_PowerSwitch" ><i class="fa fa-github" aria-hidden="true" /> GitHub</a>
 > 许可协议：<a href="https://github.com/Ratysz/RT_PowerSwitch/blob/master/License.txt" ><i class="fa fa-balance-scale" aria-hidden="true" /> GPLv3</a>
-> 模组版本：<i class="fa fa-puzzle-piece" aria-hidden="true"> 1.0.4</i>
+> 模组版本：<i class="fa fa-puzzle-piece" aria-hidden="true"> 1.0.5</i>
 > 适配游戏版本：<i class="fa fa-tag" aria-hidden="true"> 0.16.1393</i>
 
 > <i class="fa fa-check-circle" aria-hidden="true" style="color:#097c25"> 不需要新建殖民地</i>
 
-为电力开关增加**紧急电源**功能，在一侧电网电力不足时自动接通，一侧电网中的电池充满时自动断开。
+为电力开关增加**紧急电源**功能，在一侧电网电力不足时自动接通，一侧电网中的电池充满时自动断开。  
+不用再担心这堆三星电池因为过充而放电爆炸了。  
 
 > <i class="fa fa-exclamation-triangle" aria-hidden="true" style="color:#a40000"> 兼容性警告！</i>
 两个同名模组[**RT Power Switch 紧急电源**](../ratysz-rt-mods/)（作者Ratysz）与[**Power Switch 电路控制**](../haplo-power-switch/)（作者Haplo）有排序要求：  

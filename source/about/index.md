@@ -9,7 +9,7 @@ thumbnail: ../../images/about_thumbnail.png
 边缘汉化组是由风之起灵创建的翻译团队。  
 我们致力于边缘世界模组的翻译，包括**「简体中文」**与**「繁体中文」**。
 
-The RimWorld-zh is a translation team that constructed by duduluu.  
+The RimWorld-zh is a translation team constructed by duduluu.  
 We focus on translating RimWorld Mods, including both of Simplified Chinese and Tranditianal Chinese.
 
 关于翻译内置进度：

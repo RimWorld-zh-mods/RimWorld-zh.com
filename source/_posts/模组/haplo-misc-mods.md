@@ -33,10 +33,8 @@ date: 2017-01-18 01:58:07
 
 > <a href="http://pan.baidu.com/s/1i4LE6gt"><i class="fa fa-paw" aria-hidden="true" /> 百度云（汉化组分流点）</a>
 
-> <i class="fa fa-exclamation-triangle" aria-hidden="true" style="color:#a40000"> 注意</i>
-Misc.机器人 和 Misc. 武装已更新至A16  
-Misc. 人工智能 和 Misc. 事件 两个模组暂未更新至A16  
-请大家耐心等待！
+> <i class="fa fa-exclamation-triangle" aria-hidden="true" style="color:#a40000"> 注意：Misc. Incidents 事件 暂未更新至A16</i>
+
 
 ## 模组简介
 
@@ -185,8 +183,8 @@ Misc系列模组的研究项目均带有「Misc」前缀
 ![](../../images/mods/haplo/misc_mai.jpg)
 ### Misc. MAI Misc. 人工智能
 
-> 模组版本：<i class="fa fa-puzzle-piece" aria-hidden="true"> 0.15.3</i>
-> 适配游戏版本：<i class="fa fa-tag" aria-hidden="true"> 0.15.1284</i>
+> 模组版本：<i class="fa fa-puzzle-piece" aria-hidden="true"> 0.16.2</i>
+> 适配游戏版本：<i class="fa fa-tag" aria-hidden="true"> 0.16.1393</i>
 
 > <i class="fa fa-check-circle" aria-hidden="true" style="color:#097c25"> 不需要新建殖民地</i>
 > <i class="fa fa-exclamation-triangle" aria-hidden="true" style="color:#a40000"> 注意：需要Misc.核心</i>
@@ -194,8 +192,25 @@ Misc系列模组的研究项目均带有「Misc」前缀
 旧翻译为智能机器人。  
 
 **移动人工智能**：英文全称 Mobile Artificial Intelligence，缩写MAI。  
-与人类相媲美的单位，可以代替你的殖民者从事除艺术意外的所有工作。  
-分为普通型和增强型两种，普通型技能升级速度缓慢，增强型的人工智能的技能全部「双火」（兴趣度：狂热），升级很快。 
+与人类相媲美的单位，可以代替你的殖民者从事所有工作（除了艺术）。  
+ 
+使用方法：  
+1. 完成 Misc.MAI 的研究
+2. 建造「人工智能自动装配器」
+3. 点击按钮「开始生成」（你需要指派一名**「搬运工作」**的殖民者往装配器搬运500钢铁和350白银）
+4. 等待一小段时间后，生产出的人工智能会出现在装配器的出口
+5. 将未激活的移动人工智能安装到某处，在清单中添加「激活人工智能」（可选择性别）
+
+> <i class="fa fa-lightbulb-o" aria-hidden="true" style="color:#0075a9"> 提示</i>  
+人工智能分为普通型和增强型两种  
+普通型技能无学习兴趣度，升级速度缓慢  
+增强型的人工智能的技能全部「双火」（兴趣度：狂热），升级很快，但需要消耗「AI角色核心」来激活
+
+![](../../images/mods/haplo/misc_mai1.png)
+![](../../images/mods/haplo/misc_mai2.png)
+![](../../images/mods/haplo/misc_mai3.png)
+![](../../images/mods/haplo/misc_mai4.png)
+![](../../images/mods/haplo/misc_mai5.png)
 
 ---
 

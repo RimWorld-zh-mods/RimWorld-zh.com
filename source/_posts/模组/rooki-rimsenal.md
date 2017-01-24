@@ -5,7 +5,7 @@ thumbnail: ../../images/mods/rooki/thumbnail.png
 da**: 2017-01-17 15:24:21
 ---
 
-> 经典老牌模组系列：军工系列武器、联邦派系、蛮族派系、故事叙述者包、发型包、防卫包
+> 经典老牌模组系列：军工系列武器、联邦派系、蛮族派系、故事叙述者包、发型包、防卫包。
 
 <!--more-->
 
@@ -19,12 +19,11 @@ da**: 2017-01-17 15:24:21
 
 > 原始发布页面：<a href="https://ludeon.com/forums/index.php?topic=11160.0"><i class="fa fa-link" aria-hidden="true" /> Ludeon 论坛</a>
 
-> 模组版本：<i class="fa fa-puzzle-piece" aria-hidden="true"> 0.861</i>
+> 模组版本：<i class="fa fa-puzzle-piece" aria-hidden="true"> 0.87</i>
 
 > 适配游戏版本：<i class="fa fa-tag" aria-hidden="true"> 0.16.1393</i>
 
-> 翻译内置进度：<i class="fa fa-exclamation-circle" aria-hidden="true" title="未内置，请从汉化组分流点下载" style="color:#b7aa00"> 未内置</i>
-<!--<i class="fa fa-check-circle" aria-hidden="true" title="翻译已内置于原作者的模组，可直接从Steam创意工坊订阅" style="color:#097c25"> 已内置</i>-->
+> 翻译内置进度：<i class="fa fa-check-circle" aria-hidden="true" title="翻译已内置于原作者的模组中，可直接从Steam工坊订阅" style="color:#097c25"> 已内置</i>
 
 ## 订阅与下载
 
@@ -56,7 +55,9 @@ da**: 2017-01-17 15:24:21
 **外骨骼**：外骨骼是一种便携机械，由电机、气动系统提供动力，贴合肢体运动的连杆和液压装置，以用于辅助提升穿戴着的力量耐力。  
 **格斗护甲**：「精益」是一种内置护盾的动力装甲，具备机动性、耐久性和杀伤力的近身作战装备。  
 
-**电荷手枪**、**电荷霰弹枪**、**电荷狙击枪**、**电荷加农炮**、**EMP步枪**
+**攻击步枪**、**卡宾枪**、**左轮手枪**、**复合弓**
+
+**电荷手枪**、**电荷散射枪**、**电荷狙击枪**、**电荷加农炮**、**EMP步枪**、**电荷施法者**
 
 **炬剑**：「净化者」炬剑是一种带有握把和刀刃的大功率电浆炬。能点燃目标。
 

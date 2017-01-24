@@ -21,6 +21,7 @@ We focus on translating RimWorld Mods, including both of Simplified Chinese and 
 * Biscuit (脆餅)
 * cainiaowu
 * duduluu (风之起灵)
+* Seanlee
 * Talent
 * vEd_
 * yc000764

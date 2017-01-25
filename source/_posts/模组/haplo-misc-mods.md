@@ -121,7 +121,7 @@ Misc系列模组的研究项目均带有「Misc」前缀
 ![](../../images/mods/haplo/misc_mapgenerator_factionbase.png)
 ### Misc. MapGen FactionBase Misc. 地图生成器-派系基地
 
-> 模组版本：<i class="fa fa-puzzle-piece" aria-hidden="true"> 0.16.6</i>
+> 模组版本：<i class="fa fa-puzzle-piece" aria-hidden="true"> 0.16.7</i>
 > 适配游戏版本：<i class="fa fa-tag" aria-hidden="true"> 0.16.1393</i>
 
 > <i class="fa fa-check-circle" aria-hidden="true" style="color:#097c25"> 不需要新建殖民地</i>

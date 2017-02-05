@@ -29,16 +29,23 @@ date: 2017-01-23 20:44:47
 
 > 适配游戏版本：<i class="fa fa-tag" aria-hidden="true"> 0.16.1393</i>
 
-> 翻译内置进度：<i class="fa fa-exclamation-circle" aria-hidden="true" title="翻译未内置，请从汉化组分流点下载" style="color:#b7aa00"> 未内置</i>
-<!--<i class="fa fa-check-circle" aria-hidden="true" title="翻译已内置于原作者的模组中，可直接从Steam工坊订阅" style="color:#097c25"> 已内置</i>-->
+> 翻译内置进度：<i class="fa fa-check-circle" aria-hidden="true" title="翻译已内置于原作者的模组中，可直接从Steam工坊订阅" style="color:#097c25"> 已内置</i>
 
 ## 订阅与下载
 
-> <a href="http://steamcommunity.com/sharedfiles/filedetails/?id=725576127"><i class="fa fa-steam-square" aria-hidden="true" /> Steam-Workshop</a>
-> <a href="https://github.com/sam23694/GlitterTech/releases" ><i class="fa fa-github" aria-hidden="true" /> GitHub（作者原始下载）</a>
+> <a href="http://steamcommunity.com/sharedfiles/filedetails/?id=725576127"><i class="fa fa-steam-square" aria-hidden="true" /> Steam-Workshop（完整版）</a>
+> <a href="http://steamcommunity.com/sharedfiles/filedetails/?id=725657237"><i class="fa fa-steam-square" aria-hidden="true" /> Steam-Workshop（无仿生版）</a>
+> <a href="https://github.com/sam23694/GlitterTech/releases" ><i class="fa fa-github" aria-hidden="true" /> GitHub（作者原始下载）（完整版）</a>
+> <a href="https://github.com/sam23694/GlitterTechNS/releases" ><i class="fa fa-github" aria-hidden="true" /> GitHub（作者原始下载）（无仿生版）</a>
 
 > <a href="https://github.com/RimWorld-zh/GlitterTech/releases" ><i class="fa fa-github" aria-hidden="true" /> GitHub（汉化组分流点）</a>
 > <a href="http://pan.baidu.com/s/1eSKal14"><i class="fa fa-paw" aria-hidden="true" /> 百度云（汉化组分流点）</a>
+
+2017-01-31更新：修正翻译错漏。
+
+> <i class="fa fa-lightbulb-o" aria-hidden="true" style="color:#0075a9"> 提示</i>
+GlitterTech 为完整版。
+GlitterTechNS 为无仿生版（No Surgery），去除了所有高级仿生部件和神经机械内脏，降低难度。
 
 ## 模组简介
 

@@ -19,7 +19,7 @@ thumbnail: ../../images/mods/dismar/Art1.jpg
 
 > 原始发布页面：<a href="https://ludeon.com/forums/index.php?topic=12934.0"><i class="fa fa-link" aria-hidden="true" /> Ludeon 论坛</a>
 
-> 模组版本：<i class="fa fa-puzzle-piece" aria-hidden="true"> 5.3b</i>
+> 模组版本：<i class="fa fa-puzzle-piece" aria-hidden="true"> 5.3h</i>
 
 > 适配游戏版本：<i class="fa fa-tag" aria-hidden="true"> 0.16.1393</i>
 
@@ -32,6 +32,9 @@ thumbnail: ../../images/mods/dismar/Art1.jpg
 > <a href="https://www.dropbox.com/s/ck17go98jcp3z76/Vegetable%20Garden%205.3b.zip?dl=0"><i class="fa fa-dropbox" aria-hidden="true" /> Dropbox（作者原始下载）</a>
 
 > <a href="http://pan.baidu.com/s/1eSaD9E6"><i class="fa fa-paw" aria-hidden="true" /> 百度云（汉化组分流点）</a>
+
+2017-02-12 更新5.3g与菜园子工具（Vegetable Tools，是将菜园子内的土壤改造、加热太阳灯等提取出来做成的独立模组。）
+2017-02-21 更新5.3h
 
 ## 模组简介
 

@@ -21,11 +21,15 @@ We focus on translating RimWorld Mods, including both of Simplified Chinese and 
 * Biscuit (脆餅)
 * cainiaowu
 * duduluu (风之起灵)
+* Gretino
 * Seanlee
 * Talent
 * vEd_
 * yc000764
+* Yuri (南地一闲人)
+* 爱看踹
 * 嘎骨
+* 隐者的未来
 
 ## Contact Us 联系我们
 

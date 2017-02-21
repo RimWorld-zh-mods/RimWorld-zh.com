@@ -23,15 +23,20 @@ date: 2016-12-30 01:54:18
 
 > 适配游戏版本：<i class="fa fa-tag" aria-hidden="true"> 0.16.1393</i>
 
-> 翻译内置进度：<i class="fa fa-exclamation-circle" aria-hidden="true" title="未内置，请从汉化组分流点下载" style="color:#b7aa00"> 未内置</i>
+> 翻译内置进度：<i class="fa fa-check-circle" aria-hidden="true" title="翻译已内置于原作者的模组中，可直接从Steam工坊订阅" style="color:#097c25"> 已内置</i>
 
 ## 订阅与下载
 
 > <a href="http://steamcommunity.com/sharedfiles/filedetails/?id=725956940"><i class="fa fa-steam-square" aria-hidden="true" /> Steam-Workshop</a>
 
-> <a href="http://www.mediafire.com/file/mt7pv38t3z7so5w/EPOE_1.9.zip"><i class="fa fa-cloud-download" aria-hidden="true" /> Mediafire（作者原始下载）</a>
-
+> <a href="https://github.com/RimWorld-zh/Ykara-Mods-zh/releases" ><i class="fa fa-github" aria-hidden="true" /> GitHub（汉化组分流点）</a>
 > <a href="http://pan.baidu.com/s/1nv8VpIL"><i class="fa fa-paw" aria-hidden="true" /> 百度云（汉化组分流点）</a>
+
+2017-02-21 更新 1.91 与 2.0
+
+> <i class="fa fa-exclamation-triangle" aria-hidden="true" style="color:#a40000"> 警告</i>
+2.0版与装了旧版此模组的存档不兼容。  
+若要升级至2.0请新建殖民地或者使用未安装过EPOE的存档。  
 
 ## 模组简介
 

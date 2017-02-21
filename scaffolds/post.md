@@ -21,7 +21,9 @@ thumbnail: ../../images/mods/mod_default_thumbnail.png
 
 > 源代码：<a href="" ><i class="fa fa-github" aria-hidden="true" /> GitHub</a>
 
-> 许可协议：<a href="https://creativecommons.org/licenses/by-sa/4.0/" ><i class="fa fa-balance-scale" aria-hidden="true" /> CC BY-SA 4.0</a>
+> 许可协议：
+<a href="https://creativecommons.org/licenses/by-sa/4.0/" ><i class="fa fa-balance-scale" aria-hidden="true" /> CC BY-SA 4.0I</a>
+<a href="https://opensource.org/licenses/MIT" ><i class="fa fa-balance-scale" aria-hidden="true" /> MIT</a>
 
 > 模组版本：<i class="fa fa-puzzle-piece" aria-hidden="true"> </i>
 

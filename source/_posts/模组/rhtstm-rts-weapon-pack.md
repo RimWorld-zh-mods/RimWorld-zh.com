@@ -17,7 +17,7 @@ date: 2017-02-21 22:04:48
 
 > 作者：rhtstm
 
-> 翻译：loli_nymph, 695983364，yuri（南地一闲人）
+> 翻译：loli_nymph, 695983364（yuri/南地一闲人）
 
 > 原始发布页面：<a href="https://ludeon.com/forums/index.php?topic=25272.0"><i class="fa fa-link" aria-hidden="true" /> Ludeon 论坛</a>
 

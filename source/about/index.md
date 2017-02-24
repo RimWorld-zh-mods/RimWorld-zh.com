@@ -18,18 +18,21 @@ We focus on translating RimWorld Mods, including both of Simplified Chinese and 
 
 ## Members 成员
 
-* Biscuit (脆餅)
-* cainiaowu
-* duduluu (风之起灵)
-* Gretino
-* Seanlee
-* Talent
-* vEd_
-* yc000764
-* Yuri (南地一闲人)
-* 爱看踹
-* 嘎骨
-* 隐者的未来
+- Biscuit (脆餅)
+- cainiaowu
+- duduluu (风之起灵)
+- Gretino
+- jxdx308zxg (落叶飘零)
+- MADxingjin (高中生活不如狗)
+- rsxx4488
+- Seanlee
+- Talent
+- vEd_
+- yc000764
+- Yuri (南地一闲人)
+- 爱看踹
+- 嘎骨
+- 隐者的未来
 
 ## Contact Us 联系我们
 

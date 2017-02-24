@@ -5,7 +5,7 @@ thumbnail: ../../images/mods/eatkenny/tc_preview.png
 date: 2017-02-21 21:46:34
 ---
 
-> 文章摘要
+> 特斯拉炮塔、正义的舰炮
 
 <!--more-->
 

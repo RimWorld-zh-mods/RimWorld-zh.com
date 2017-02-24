@@ -41,4 +41,7 @@ date: 2017-02-21 21:36:39
 
 ![hc_weapons](../../images/mods/eatkenny/hc_weapons.png)
 
+![hc_ballistic_shield](../../images/mods/eatkenny/hc_ballistic_shield.png)
+装备防弹盾时，只能使用小口径的枪械或者近战武器。
+
 注：封面为 XM25 CDTE 自动榴弹枪。防弹盾已经被削弱了，不再IMBA。

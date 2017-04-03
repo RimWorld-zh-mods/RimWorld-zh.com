@@ -1,7 +1,7 @@
 ---
 title: '[Sam] Glitter Tech 闪耀科技'
 categories: 模组
-thumbnail: ../../images/mods/sam/gt_thumbnail.png
+thumbnail: /images/mods/sam/gt_thumbnail.png
 date: 2017-01-23 20:44:47
 ---
 
@@ -9,7 +9,7 @@ date: 2017-01-23 20:44:47
 
 <!--more-->
 
-![gt](../../images/mods/sam/gt.png)
+![gt](/images/mods/sam/gt.png)
 
 # [Sam] Glitter Tech 闪耀科技
 
@@ -62,16 +62,16 @@ GlitterTechNS 为无仿生版（No Surgery），去除了所有高级仿生部�
 
 #### 新增工作台：  
 
-![gt](../../images/mods/sam/TablePharmaceutical.png)
+![gt](/images/mods/sam/TablePharmaceutical.png)
 **配药桌**：制作「药物」、「闪耀世界药物」、「血浆」，需要研究**「GT：制药」**。  
 
-![gt](../../images/mods/sam/Electrolyzer.png)
+![gt](/images/mods/sam/Electrolyzer.png)
 **电解机**：「从岩石提取硅」、「从玻璃钢提取钛合金」、「从草莓提取乙醇」，需要研究**「GT：电解」**。  
 
-![gt](../../images/mods/sam/MatterFab.png)
+![gt](/images/mods/sam/MatterFab.png)
 **物质合成机**：「人工合成阿尔法纤维」、「人工合成贝塔纤维」、「制作玻璃钢」，需要研究**「GT：原子组装」**。  
 
-![gt](../../images/mods/sam/RobAssem.png)
+![gt](/images/mods/sam/RobAssem.png)
 **自动化装配机**：「装配电脑元件」、「装配电磁线圈」，需要研究**「GT：自动化工程」**。  
 
 #### 新增材料：

@@ -1,7 +1,7 @@
 ---
 title: "[Ykara] Expanded Prosthetics and Organ Engineering 扩展假体与器官工程 [EPOE]"
 categories: 模组
-thumbnail: ../../images/mods/ykara/epoe_preview.png
+thumbnail: /images/mods/ykara/epoe_preview.png
 date: 2016-12-30 01:54:18
 ---
 

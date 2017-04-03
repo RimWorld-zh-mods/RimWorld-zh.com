@@ -1,7 +1,7 @@
 ---
 title: '[Fluffy] Fluffy系列模组'
 categories: 模组
-thumbnail: ../../images/mods/fluffy/fluffycat.png
+thumbnail: /images/mods/fluffy/fluffycat.png
 date: 2017-02-24 18:25:20
 ---
 
@@ -9,7 +9,7 @@ date: 2017-02-24 18:25:20
 
 <!--more-->
 
-![cat](../../images/mods/fluffy/cat.gif)
+![cat](/images/mods/fluffy/cat.gif)
 
 # [Fluffy] Fluffy系列模组
 
@@ -29,7 +29,7 @@ date: 2017-02-24 18:25:20
 
 ---
 
-![](../../images/mods/fluffy/previewfile_712141500.png)
+![](/images/mods/fluffy/previewfile_712141500.png)
 
 ## Animal Tab 动物标签
 
@@ -47,7 +47,7 @@ date: 2017-02-24 18:25:20
 
 ---
 
-![](../../images/mods/fluffy/previewfile_852998459.png)
+![](/images/mods/fluffy/previewfile_852998459.png)
 
 ## Architect Sense 建造菜单归类
 
@@ -61,7 +61,7 @@ date: 2017-02-24 18:25:20
 
 ---
 
-![](../../images/mods/fluffy/previewfile_725153576.png)
+![](/images/mods/fluffy/previewfile_725153576.png)
 
 ## Area Unlocker 区域解锁
 
@@ -71,11 +71,11 @@ date: 2017-02-24 18:25:20
 > <i class="fa fa-exclamation-triangle" aria-hidden="true" style="color:#a40000"> 需要前置：</i><a href="/mods/unlimitedhugs-hugslib/" >HugsLib Hugs运行库</a>
 
 移除原版管制区域的创建数量限制。
-![](../../images/mods/fluffy/725153576_preview_Untitled.png)
+![](/images/mods/fluffy/725153576_preview_Untitled.png)
 
 ---
 
-![](../../images/mods/fluffy/previewfile_708455313.png)
+![](/images/mods/fluffy/previewfile_708455313.png)
 
 ## Blueprints 蓝图
 
@@ -88,11 +88,11 @@ date: 2017-02-24 18:25:20
 - 右击按钮可重命名蓝图，以及有导出和导入功能，可在不同的存档之间通用
 - 未解锁研究的物品将无法建造
 
-![blue](../../images/mods/fluffy/blueprint_show.gif)
+![blue](/images/mods/fluffy/blueprint_show.gif)
 
 ---
 
-![](../../images/mods/fluffy/previewfile_715565262.png)
+![](/images/mods/fluffy/previewfile_715565262.png)
 
 ## Colony Manager 殖民地管理
 
@@ -108,7 +108,7 @@ date: 2017-02-24 18:25:20
 
 ---
 
-![](../../images/mods/fluffy/previewfile_726244033.png)
+![](/images/mods/fluffy/previewfile_726244033.png)
 
 ## Fluffy Breakdowns 损坏维护
 
@@ -122,7 +122,7 @@ date: 2017-02-24 18:25:20
 
 ---
 
-![](../../images/mods/fluffy/previewfile_715759739.png)
+![](/images/mods/fluffy/previewfile_715759739.png)
 
 ## Follow Me 镜头跟随
 
@@ -135,7 +135,7 @@ date: 2017-02-24 18:25:20
 
 ---
 
-![](../../images/mods/fluffy/previewfile_715565817.png)
+![](/images/mods/fluffy/previewfile_715565817.png)
 
 ## Medical Tab 医疗标签
 
@@ -147,7 +147,7 @@ date: 2017-02-24 18:25:20
 
 ---
 
-![](../../images/mods/fluffy/previewfile_709317151.png)
+![](/images/mods/fluffy/previewfile_709317151.png)
 
 ## Relations Tab 关系标签
 
@@ -159,7 +159,7 @@ date: 2017-02-24 18:25:20
 
 ---
 
-![](../../images/mods/fluffy/previewfile_857164561.png)
+![](/images/mods/fluffy/previewfile_857164561.png)
 
 ## Stack Merger 堆叠合并
 
@@ -171,7 +171,7 @@ date: 2017-02-24 18:25:20
 
 ---
 
-![](../../images/mods/fluffy/previewfile_853043503.png)
+![](/images/mods/fluffy/previewfile_853043503.png)
 
 ## Stuffed Floors 材料地板
 
@@ -187,7 +187,7 @@ date: 2017-02-24 18:25:20
 
 ---
 
-![](../../images/mods/fluffy/previewfile_751049133.png)
+![](/images/mods/fluffy/previewfile_751049133.png)
 
 ## The Birds and the Bees 老司机与驾照
 
@@ -202,7 +202,7 @@ date: 2017-02-24 18:25:20
 
 ---
 
-![](../../images/mods/fluffy/previewfile_725219116.png)
+![](/images/mods/fluffy/previewfile_725219116.png)
 
 ## Work Tab 工作标签
 
@@ -222,6 +222,11 @@ date: 2017-02-24 18:25:20
 
 > <i class="fa fa-exclamation-triangle" aria-hidden="true" style="color:#a40000"> 兼容性警告</i>
 与精心准备冲突：重新开局有时候会跳红字，比如你有某些工作不会做的人，不过保存退出再进来就没事了。
+
+---
+
+> <a href="http://pan.baidu.com/s/1jHZSCoI"><i class="fa fa-paw" aria-hidden="true" /> 百度云（汉化组分流点）</a>
+
 
 
 

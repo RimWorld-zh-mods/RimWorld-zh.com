@@ -1,7 +1,7 @@
 ---
 title: '[eatKenny] Industrialisation 工业化'
 categories: 模组
-thumbnail: ../../images/mods/eatkenny/ind_review.png
+thumbnail: /images/mods/eatkenny/ind_review.png
 date: 2017-02-14 18:11:11
 ---
 
@@ -9,7 +9,7 @@ date: 2017-02-14 18:11:11
 
 <!--more-->
 
-![ind](../../images/mods/eatkenny/ind_review.png)
+![ind](/images/mods/eatkenny/ind_review.png)
 
 # [eatKenny] Industrialisation 工业化
 

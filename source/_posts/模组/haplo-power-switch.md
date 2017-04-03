@@ -1,7 +1,7 @@
 ---
 title: "[Haplo] Power Switch 电路控制 [PS]"
 categories: 模组
-thumbnail: ../../images/mods/haplo/powerswitch.png
+thumbnail: /images/mods/haplo/powerswitch.png
 date: 2016-12-31 23:40:32
 ---
 

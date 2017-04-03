@@ -1,7 +1,7 @@
 ---
 title: '[UnlimitedHugs] HugsLib Hugs运行库'
 categories: 模组
-thumbnail: ../../images/mods/unlimitedhugs/hugslib_preview.png
+thumbnail: /images/mods/unlimitedhugs/hugslib_preview.png
 date: 2017-02-24 18:02:12
 ---
 
@@ -9,7 +9,7 @@ date: 2017-02-24 18:02:12
 
 <!--more-->
 
-![hugslib](../../images/mods/unlimitedhugs/hugslib_preview.png)
+![hugslib](/images/mods/unlimitedhugs/hugslib_preview.png)
 
 # [UnlimitedHugs] HugsLib Hugs运行库
 
@@ -40,15 +40,18 @@ date: 2017-02-24 18:02:12
 ## 模组简介
 
 > <i class="fa fa-check-circle" aria-hidden="true" style="color:#097c25"> 不需要新建殖民地</i>
+> <i class="fa fa-exclamation-triangle" aria-hidden="true" style="color:#a40000"> 注意：HugsLib 有排序要求！必须紧跟在 Core 之后激活！不能排在其他 Mod 之后！</i>
+> <i class="fa fa-exclamation-triangle" aria-hidden="true" style="color:#a40000"> 注意：HugsLib 有排序要求！必须紧跟在 Core 之后激活！不能排在其他 Mod 之后！</i>
+> <i class="fa fa-exclamation-triangle" aria-hidden="true" style="color:#a40000"> 注意：HugsLib 有排序要求！必须紧跟在 Core 之后激活！不能排在其他 Mod 之后！</i>
 
 - 为其他基于此运行库的模组提供程序支持。
 - 在选项窗口中增加一个按钮「Mod 选项」，打开Mod选项窗口可设置Mod。
 - 在 Debug log 窗口中添加「导出日志」按钮，并在详细信息中添加「复制」按钮，可复制日志信息，方便其他Mod用户反馈bug
 
-![hugslib](../../images/mods/unlimitedhugs/hl_option.png)
-![hugslib](../../images/mods/unlimitedhugs/hl_optionmod.png)
+![](/images/mods/unlimitedhugs/hl_option.png)
+![](/images/mods/unlimitedhugs/hl_optionmod.png)
 
-![hugslib](../../images/mods/unlimitedhugs/hl_debuglog.png)
+![](/images/mods/unlimitedhugs/hl_debuglog.png)
 
 > <i class="fa fa-lightbulb-o" aria-hidden="true" style="color:#0075a9"> 提示</i>
 对于想基于此运行库的Mod制作者，可查阅源码仓库中附带的[Wiki](https://github.com/UnlimitedHugs/RimworldHugsLib/wiki)。  

@@ -1,7 +1,7 @@
 ---
 title: '[Khell] Lockable Doors 门锁'
 categories: 模组
-thumbnail: ../../images/mods/khell/lockabledoors.png
+thumbnail: /images/mods/khell/lockabledoors.png
 date: 2017-01-17 02:04:09
 ---
 

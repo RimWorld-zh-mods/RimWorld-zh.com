@@ -1,7 +1,7 @@
 ---
 title: "[rhtstm] RT's Weapon Pack RT武器包"
 categories: 模组
-thumbnail: ../../images/mods/rhtstm/rtwp_preview.png
+thumbnail: /images/mods/rhtstm/rtwp_preview.png
 date: 2017-02-21 22:04:48
 ---
 
@@ -9,7 +9,7 @@ date: 2017-02-21 22:04:48
 
 <!--more-->
 
-![hc](../../images/mods/rhtstm/rtwp_preview.png)
+![hc](/images/mods/rhtstm/rtwp_preview.png)
 
 # [rhtstm] RT's Weapon Pack RT武器包
 
@@ -37,6 +37,6 @@ date: 2017-02-21 22:04:48
 
 > <i class="fa fa-check-circle" aria-hidden="true" style="color:#097c25"> 不需要新建殖民地</i>
 
-![hc_weapons](../../images/mods/rhtstm/rts_weapons.png)
+![hc_weapons](/images/mods/rhtstm/rts_weapons.png)
 
 注：此RT非彼RT。

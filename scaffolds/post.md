@@ -2,7 +2,7 @@
 title: "[作者] 英文原名 中文译名"
 date: {{ date }}
 categories: 模组
-thumbnail: ../../images/mods/mod_default_thumbnail.png
+thumbnail: /images/mods/mod_default_thumbnail.png
 ---
 
 > 文章摘要

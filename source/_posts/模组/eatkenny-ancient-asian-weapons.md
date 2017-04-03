@@ -1,7 +1,7 @@
 ---
 title: '[eatKenny] Ancient Asian Weapons 古亚洲武器'
 categories: 模组
-thumbnail: ../../images/mods/eatkenny/aaw_preview.png
+thumbnail: /images/mods/eatkenny/aaw_preview.png
 date: 2017-02-21 21:16:10
 ---
 
@@ -9,7 +9,7 @@ date: 2017-02-21 21:16:10
 
 <!--more-->
 
-![aaw](../../images/mods/eatkenny/aaw_preview.png)
+![aaw](/images/mods/eatkenny/aaw_preview.png)
 
 # [eatKenny] Ancient Asian Weapons 古亚洲武器
 
@@ -39,7 +39,7 @@ date: 2017-02-21 21:16:10
 
 > <i class="fa fa-check-circle" aria-hidden="true" style="color:#097c25"> 不需要新建殖民地</i>
 
-![aaw_weapons](../../images/mods/eatkenny/aaw_weapons.png)
+![aaw_weapons](/images/mods/eatkenny/aaw_weapons.png)
 
 注：吹箭枪已被移除。
 

@@ -39,7 +39,7 @@ post_asset_folder: false
 relative_link: false
 future: true
 highlight:
-  enable: true
+  enable: false
   line_number: true
   auto_detect: false
   tab_replace:
@@ -75,6 +75,12 @@ sitemap:
   path: sitemap.xml
 baidusitemap:
   path: baidusitemap.xml
+
+# Prism highlighting plugin 
+prism_plugin:
+  mode: 'preprocess'    # realtime/preprocess
+  theme: 'solarizedlight'
+  line_number: false    # default false
 
 # Deployment
 ## Docs: https://hexo.io/docs/deployment.html

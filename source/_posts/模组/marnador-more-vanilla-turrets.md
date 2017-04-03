@@ -1,7 +1,7 @@
 ---
 title: "[Marnador] More Vanilla Turrets 更多炮塔 [MVT]"
 categories: 模组
-thumbnail: ../../images/mods/marnador/mvt_preview2.png
+thumbnail: /images/mods/marnador/mvt_preview2.png
 date: 2016-12-30 19:43:58
 ---
 
@@ -11,7 +11,7 @@ date: 2016-12-30 19:43:58
 
 # [Marnador] More Vanilla Turrets 更多炮塔 [MVT]
 
-![mvt](../../images/mods/marnador/mvt_preview0.png)
+![mvt](/images/mods/marnador/mvt_preview0.png)
 
 ## 模组信息
 

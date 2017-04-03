@@ -1,7 +1,7 @@
 ---
 title: '[EdB] Prepare Carefully 精心准备'
 categories: 模组
-thumbnail: ../../images/mods/edb/preparecarefully.png
+thumbnail: /images/mods/edb/preparecarefully.png
 date: 2017-01-18 21:17:02
 ---
 
@@ -11,7 +11,7 @@ date: 2017-01-18 21:17:02
 
 # [EdB] Prepare Carefully 精心准备
 
-![EdBPrepareCarefully](../../images/mods/edb/preparecarefully_zh.png)
+![EdBPrepareCarefully](/images/mods/edb/preparecarefully_zh.png)
 
 ## 模组信息
 
@@ -60,8 +60,8 @@ date: 2017-01-18 21:17:02
 > 生物年龄：角色在休眠仓之外所经历的时间（休眠仓内肉体不会衰老，所以在休眠仓内生物年龄是不会增长的。）
 > 历法年龄：角色从出生到当前时间的总时间（包括在休眠仓内休眠的时间。）
 
-![](../../images/mods/edb/01.jpg)  
-![](../../images/mods/edb/02.jpg)  
+![](/images/mods/edb/01.jpg)  
+![](/images/mods/edb/02.jpg)  
 
 > <i class="fa fa-lightbulb-o" aria-hidden="true" style="color:#0075a9"> 提示</i>
 角色人数过多、物品过多、花费点数过高等，有可能导致开局时人物消失。  

@@ -1,7 +1,7 @@
 ---
 title: '[Sam] Tilled Soild 耕种土壤 | Dye Vat 染缸 | Furnace 高温加热炉'
 categories: 模组
-thumbnail: ../../images/mods/sam/sam_thumbnail.png
+thumbnail: /images/mods/sam/sam_thumbnail.png
 date: 2017-02-03 07:19:00
 ---
 
@@ -11,7 +11,7 @@ date: 2017-02-03 07:19:00
 
 # [Sam] Tilled Soild 耕种土壤
 
-![ts](../../images/mods/sam/previewfile_725747149.png)
+![ts](/images/mods/sam/previewfile_725747149.png)
 
 ## 模组信息
 
@@ -48,7 +48,7 @@ date: 2017-02-03 07:19:00
 
 # [Sam] Dye Vat 染缸
 
-![ts](../../images/mods/sam/previewfile_740002420.png)
+![ts](/images/mods/sam/previewfile_740002420.png)
 
 ## 模组信息
 
@@ -85,7 +85,7 @@ date: 2017-02-03 07:19:00
 
 # [Sam] Furnace 高温加热炉
 
-![ts](../../images/mods/sam/previewfile_726121441.png)
+![ts](/images/mods/sam/previewfile_726121441.png)
 
 ## 模组信息
 

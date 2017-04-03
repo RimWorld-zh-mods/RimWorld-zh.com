@@ -1,7 +1,7 @@
 ---
 title: '[IzzyHRC] Mind Altering Device 思维修改器'
 categories: 模组
-thumbnail: ../../images/mods/izzyhrc/mad.jpg
+thumbnail: /images/mods/izzyhrc/mad.jpg
 date: 2017-01-19 03:30:23
 ---
 
@@ -9,7 +9,7 @@ date: 2017-01-19 03:30:23
 
 <!--more-->
 
-![mad](../../images/mods/izzyhrc/mad_preview.png)
+![mad](/images/mods/izzyhrc/mad_preview.png)
 # [IzzyHRC] Mind Altering Device 思维修改器
 
 ## 模组信息
@@ -54,9 +54,9 @@ date: 2017-01-19 03:30:23
 2. 建造「思维修改器」
 3. 将贱民塞进去！
 
-![01](../../images/mods/izzyhrc/01.jpg)
-![02](../../images/mods/izzyhrc/02.jpg)
-![03](../../images/mods/izzyhrc/03.jpg)
+![01](/images/mods/izzyhrc/01.jpg)
+![02](/images/mods/izzyhrc/02.jpg)
+![03](/images/mods/izzyhrc/03.jpg)
 
 PS：研究「MAD：改变你的过去！」后还能用于修改人物的背景故事。~~虽然没什么卵用~~
 

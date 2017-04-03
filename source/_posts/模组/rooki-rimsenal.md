@@ -1,7 +1,7 @@
 ---
 title: '[rooki12k] Rimsenal 边缘军工'
 ca**gories: 模组
-thumbnail: ../../images/mods/rooki/thumbnail.png
+thumbnail: /images/mods/rooki/thumbnail.png
 da**: 2017-01-17 15:24:21
 ---
 
@@ -43,7 +43,7 @@ da**: 2017-01-17 15:24:21
 
 ---
 
-![Rimsenal](../../images/mods/rooki/preview_by_rooki1-dau6kak.png)
+![Rimsenal](/images/mods/rooki/preview_by_rooki1-dau6kak.png)
 ## Rimsenal 边缘军工
 
 > <i class="fa fa-lightbulb-o" aria-hidden="true" style="color:#0075a9"> 军工系列核心模组</i>
@@ -58,7 +58,7 @@ da**: 2017-01-17 15:24:21
 
 ---
 
-![](../../images/mods/rooki/rimsenal/YunhwaPrecision.png)
+![](/images/mods/rooki/rimsenal/YunhwaPrecision.png)
 ### Yunhwa Precision 允和高精
 
 **神降护甲**：「允和高精」的「影然」空降服，为实现在世界范围内空投军队而投入生产。完全封闭的服装设计用于在极端环境下作战，比如宇宙真空。安装有增强穿戴着行动速度的推进器。
@@ -78,7 +78,7 @@ da**: 2017-01-17 15:24:21
 
 ---
 
-![](../../images/mods/rooki/rimsenal/JotunIntersellar.png)
+![](/images/mods/rooki/rimsenal/JotunIntersellar.png)
 ### Jotun Intersellar 巨人星际
 
 **突击护甲**:「巨人星际」的突击护甲，以北欧神话中的「勇敢的比约恩」命名。用玻璃钢完全包裹住穿戴者，基本上就是一个人形自走坦克。
@@ -98,7 +98,7 @@ da**: 2017-01-17 15:24:21
 
 ---
 
-![](../../images/mods/rooki/rimsenal/TisiphoneEnterprise.png)
+![](/images/mods/rooki/rimsenal/TisiphoneEnterprise.png)
 ### Tisiphone Enterprise 底西福涅公司
 
 **反射护甲**：一款为狩猎联邦残余而打造的动力装甲，以希腊神话中的复仇女神「涅墨西斯」命名。几乎免疫热能攻击，「底西福涅猎人特遣队」的精英猎人会装备这种护甲。
@@ -118,7 +118,7 @@ da**: 2017-01-17 15:24:21
 
 ---
 
-![](../../images/mods/rooki/rimsenal/GreydaleDefence.png)
+![](/images/mods/rooki/rimsenal/GreydaleDefence.png)
 ### Greydale Defence 灰谷防御
 
 **先驱者护甲**：专为战地工程师设计的盔甲，「灰谷防御」的「拉科尼安」先驱者护甲集成了成套是工具包，非常适合穿着它在枪林弹雨中建造阵地。
@@ -145,7 +145,7 @@ da**: 2017-01-17 15:24:21
 
 ---
 
-![Rimsenal](../../images/mods/rooki/preview_by_rooki1-darr49l.png)
+![Rimsenal](/images/mods/rooki/preview_by_rooki1-darr49l.png)
 ## Rimsenal: Federation 边缘军工：联邦
 
 > <i class="fa fa-exclamation-triangle" aria-hidden="true" style="color:#a40000"> 注意：子模组，需要核心模组支持</i>
@@ -195,7 +195,7 @@ da**: 2017-01-17 15:24:21
 
 ---
 
-![Rimsenal](../../images/mods/rooki/preview_by_rooki1-dahpd2i.png)
+![Rimsenal](/images/mods/rooki/preview_by_rooki1-dahpd2i.png)
 ## Rimsenal - Feral 边缘军工-蛮族
 
 > <i class="fa fa-exclamation-triangle" aria-hidden="true" style="color:#a40000"> 注意：子模组，需要核心模组支持</i>
@@ -230,33 +230,33 @@ Mutual Assured Destruction strategy：相互保证毁灭，是一种军事战略
 
 ---
 
-![Rimsenal](../../images/mods/rooki/preview_by_rooki1-daso32h.png)
+![Rimsenal](/images/mods/rooki/preview_by_rooki1-daso32h.png)
 ## Rimsenal - Hair pack  边缘军工-发型包
 
 > <i class="fa fa-check-circle" aria-hidden="true" style="color:#097c25"> 独立模组，可单独安装</i>
 
 ---
 
-![Rimsenal](../../images/mods/rooki/preview_by_rooki1-dahpdjk.png)
+![Rimsenal](/images/mods/rooki/preview_by_rooki1-dahpdjk.png)
 ## Rimsenal - Storyteller pack  边缘军工-故事叙述者包
 
 > <i class="fa fa-check-circle" aria-hidden="true" style="color:#097c25"> 独立模组，可单独安装</i>
 
-![Rimsenal](../../images/mods/rooki/accipiter_by_rooki1-d8m5h9i.png)
+![Rimsenal](/images/mods/rooki/accipiter_by_rooki1-d8m5h9i.png)
 **“朋友，派对时间已经结束了。是时候面对真实的故事了。”**  
 苍鹰，允和高精新闻发言人，她对讲述故事有独到的见解。在早期，在你完全发展起来之前，苍鹰会对你的殖民地照顾有加。然后呢？她会无情地蹂躏你。赶紧行动，做好迎接审判的降临！
 
-![Rimsenal](../../images/mods/rooki/sereniz_by_rooki1-d8waz0a.png)
+![Rimsenal](/images/mods/rooki/sereniz_by_rooki1-d8waz0a.png)
 **“悲剧也有自己独特的魅力。请细细品味。”** 
 宁静，暴戾的联邦维和部队指挥员，她有一大堆基于她之前工作类型的痛苦故事。在她的故事中，角色在无尽的痛苦挣扎后往往迎来死亡。她极爱这类故事。除了较少的袭击，她会引发大量折磨人的小事件。
 
-![Rimsenal](../../images/mods/rooki/hildegarde_by_rooki1-d8wtk4c.png)
+![Rimsenal](/images/mods/rooki/hildegarde_by_rooki1-d8wtk4c.png)
 **“只有一种方式能证明一个人的真正价值。那就是战火的考验。”**  
 希尔德佳，一位从残酷的机械族战争中存活下来的老兵，巨人兵团的吟游诗人，她的歌声就像巨人王牌军团的人一样，充满了硝烟和战争。她会带来更多的“大威胁”而更少的事件。
 
 ---
 
-![Rimsenal](../../images/mods/rooki/preview_by_rooki1-dahpdjd.png)
+![Rimsenal](/images/mods/rooki/preview_by_rooki1-dahpdjd.png)
 ## Rimsenal - Security pack  边缘军工-防卫包
 
 > <i class="fa fa-exclamation-triangle" aria-hidden="true" style="color:#a40000"> 注意：子模组，需要核心模组支持</i>
@@ -279,7 +279,7 @@ Mutual Assured Destruction strategy：相互保证毁灭，是一种军事战略
 
 ---
 
-![Rimsenal](../../images/mods/rooki/preview_by_rooki1-venilla.png)
+![Rimsenal](/images/mods/rooki/preview_by_rooki1-venilla.png)
 ## Rimsenal - Enhanced Vanilla Pack  边缘军工-原版增强包
 
 > <i class="fa fa-check-circle" aria-hidden="true" style="color:#097c25"> 独立模组，可单独安装</i>

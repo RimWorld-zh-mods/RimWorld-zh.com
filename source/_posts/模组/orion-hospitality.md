@@ -1,7 +1,7 @@
 ---
 title: '[Orion] Hospitality 访客招募/招待'
 categories: 模组
-thumbnail: ../../images/mods/orion/hospitality_preview.png
+thumbnail: /images/mods/orion/hospitality_preview.png
 date: 2017-02-21 22:22:16
 ---
 
@@ -9,7 +9,7 @@ date: 2017-02-21 22:22:16
 
 <!--more-->
 
-![hos](../../images/mods/orion/hospitality_preview.png)
+![hos](/images/mods/orion/hospitality_preview.png)
 
 # [Orion] Hospitality 访客招募/招待
 

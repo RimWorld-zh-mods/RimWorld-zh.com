@@ -1,7 +1,7 @@
 ---
 title: '[eatKenny] High Caliber 现代武器'
 categories: 模组
-thumbnail: ../../images/mods/eatkenny/hc_preview.png
+thumbnail: /images/mods/eatkenny/hc_preview.png
 date: 2017-02-21 21:36:39
 ---
 
@@ -9,7 +9,7 @@ date: 2017-02-21 21:36:39
 
 <!--more-->
 
-![hc](../../images/mods/eatkenny/hc_preview.png)
+![hc](/images/mods/eatkenny/hc_preview.png)
 
 # [eatKenny] High Caliber 现代武器
 
@@ -39,9 +39,9 @@ date: 2017-02-21 21:36:39
 
 > <i class="fa fa-check-circle" aria-hidden="true" style="color:#097c25"> 不需要新建殖民地</i>
 
-![hc_weapons](../../images/mods/eatkenny/hc_weapons.png)
+![hc_weapons](/images/mods/eatkenny/hc_weapons.png)
 
-![hc_ballistic_shield](../../images/mods/eatkenny/hc_ballistic_shield.png)
+![hc_ballistic_shield](/images/mods/eatkenny/hc_ballistic_shield.png)
 装备防弹盾时，只能使用小口径的枪械或者近战武器。
 
 注：封面为 XM25 CDTE 自动榴弹枪。防弹盾已经被削弱了，不再IMBA。

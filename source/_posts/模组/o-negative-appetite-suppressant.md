@@ -1,7 +1,7 @@
 ---
 title: '[O Negative] Appetite Suppressant 食欲抑制剂'
 categories: 模组
-thumbnail: ../../images/mods/mod_default_thumbnail.png
+thumbnail: /images/mods/mod_default_thumbnail.png
 date: 2017-01-17 03:58:11
 ---
 

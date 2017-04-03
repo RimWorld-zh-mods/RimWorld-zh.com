@@ -1,7 +1,7 @@
 ---
 title: '[ShadowTani] Chemicals & Neutroamine R1 化学品与中性胺'
 categories: 模组
-thumbnail: ../../images/mods/shadowtani/chemicalsneutroamine.png
+thumbnail: /images/mods/shadowtani/chemicalsneutroamine.png
 date: 2017-01-17 02:58:40
 ---
 

@@ -1,7 +1,7 @@
 ---
 title: "[spoonshortage] GouRIMet 边缘美食家 Noku Mushrooms 红头菇"
 categories: 模组
-thumbnail: ../../images/mods/spoonshortage/gourimet.png
+thumbnail: /images/mods/spoonshortage/gourimet.png
 date: 2017-01-16 22:37:44
 ---
 

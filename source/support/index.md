@@ -1,5 +1,5 @@
 ---
-title: 赞助汉化组
+title: 赞助汉化组 Supports
 date: page.updated
 thumbnail: ../../images/about_thumbnail.png
 ---

@@ -1,7 +1,7 @@
 ---
 title: '[eatKenny] Turret Collection 炮塔合集'
 categories: 模组
-thumbnail: ../../images/mods/eatkenny/tc_preview.png
+thumbnail: /images/mods/eatkenny/tc_preview.png
 date: 2017-02-21 21:46:34
 ---
 
@@ -9,7 +9,7 @@ date: 2017-02-21 21:46:34
 
 <!--more-->
 
-![tc](../../images/mods/eatkenny/tc_preview.png)
+![tc](/images/mods/eatkenny/tc_preview.png)
 
 # [eatKenny] Turret Collection 炮塔合集
 
@@ -39,11 +39,11 @@ date: 2017-02-21 21:46:34
 
 > <i class="fa fa-check-circle" aria-hidden="true" style="color:#097c25"> 不需要新建殖民地</i>
 
-![tc1](../../images/mods/eatkenny/tc_preview_1.png)
+![tc1](/images/mods/eatkenny/tc_preview_1.png)
 
-![tc2](../../images/mods/eatkenny/tc_preview_2.png)
+![tc2](/images/mods/eatkenny/tc_preview_2.png)
 
-![tc3](../../images/mods/eatkenny/tc_preview_3.png)
+![tc3](/images/mods/eatkenny/tc_preview_3.png)
 
 **M2勃朗宁重机枪**  
 需要人员操作的M2勃朗宁重机枪。  

@@ -2,7 +2,7 @@
 title: "[dismar] Vegetable Garden 菜园子"
 date: 2016-12-27 23:02:41
 categories: 模组
-thumbnail: ../../images/mods/dismar/Art1.jpg
+thumbnail: /images/mods/dismar/Art1.jpg
 ---
 
 > 让边缘世界一秒变农场物语。
@@ -54,9 +54,9 @@ thumbnail: ../../images/mods/dismar/Art1.jpg
 「炉灶（电力）」需要研究「VG：高级烹饪」。
 
 
-![](../../images/mods/dismar/vg017_000.png)  
-![](../../images/mods/dismar/vg017_001.png)  
-![](../../images/mods/dismar/vg017_002.png)  
-![](../../images/mods/dismar/vg017_003.png)  
-![](../../images/mods/dismar/vg017_004.png)  
-![](../../images/mods/dismar/vg017_005.png)  
+![](/images/mods/dismar/vg017_000.png)  
+![](/images/mods/dismar/vg017_001.png)  
+![](/images/mods/dismar/vg017_002.png)  
+![](/images/mods/dismar/vg017_003.png)  
+![](/images/mods/dismar/vg017_004.png)  
+![](/images/mods/dismar/vg017_005.png)  

@@ -2,7 +2,7 @@
 title: "[Ratysz] Mad Skills 疯狂技能（技能不减）"
 date: 2016-12-30 00:13:48
 categories: 模组
-thumbnail: ../../images/mods/mod_default_thumbnail.png
+thumbnail: /images/mods/mod_default_thumbnail.png
 ---
 
 > 原版的人物技能如果不经常使用的话，经验会逐渐流失，而且会降级，这个Mod可以改变这一设定。

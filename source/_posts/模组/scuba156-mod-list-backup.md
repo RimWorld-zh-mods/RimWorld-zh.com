@@ -1,7 +1,7 @@
 ---
 title: '[scuba156] Mod List Backup 模组列表备份'
 categories: 模组
-thumbnail: ../../images/mods/scuba156/modlistbackup.png
+thumbnail: /images/mods/scuba156/modlistbackup.png
 date: 2017-01-17 21:39:55
 ---
 

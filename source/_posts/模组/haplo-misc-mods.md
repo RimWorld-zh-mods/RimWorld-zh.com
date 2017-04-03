@@ -1,7 +1,7 @@
 ---
 title: '[Haplo] Miscellaneous Misc系列模组'
 categories: 模组
-thumbnail: ../../images/mods/haplo/misc.jpg
+thumbnail: /images/mods/haplo/misc.jpg
 date: 2017-01-18 01:58:07
 ---
 
@@ -45,7 +45,7 @@ Misc系列模组的研究项目均带有「Misc」前缀
 
 ---
 
-![](../../images/mods/haplo/misc_core.jpg)
+![](/images/mods/haplo/misc_core.jpg)
 ### Miscellaneous 'CORE' Misc. 核心
 
 > 模组版本：<i class="fa fa-puzzle-piece" aria-hidden="true"> 0.16.4</i>
@@ -67,7 +67,7 @@ Misc系列模组的研究项目均带有「Misc」前缀
 
 ---
 
-![](../../images/mods/haplo/misc_bees_n_honey.jpg)
+![](/images/mods/haplo/misc_bees_n_honey.jpg)
 ### Misc. Bees 'n' Honey Misc. 蜜蜂与蜂蜜
 
 > 模组版本：<i class="fa fa-puzzle-piece" aria-hidden="true"> 0.16.5</i>
@@ -85,7 +85,7 @@ Misc系列模组的研究项目均带有「Misc」前缀
 
 ---
 
-![](../../images/mods/haplo/misc_incidents.jpg)
+![](/images/mods/haplo/misc_incidents.jpg)
 ### Misc. Incidents Misc. 事件
 
 > 模组版本：<i class="fa fa-puzzle-piece" aria-hidden="true"> 0.15.5</i>
@@ -105,7 +105,7 @@ Misc系列模组的研究项目均带有「Misc」前缀
 
 ---
 
-![](../../images/mods/haplo/misc_mapgenerator.jpg)
+![](/images/mods/haplo/misc_mapgenerator.jpg)
 ### Misc. MapGenerator Misc. 地图生成器
 
 > 模组版本：<i class="fa fa-puzzle-piece" aria-hidden="true"> 0.16.6</i>
@@ -118,7 +118,7 @@ Misc系列模组的研究项目均带有「Misc」前缀
 
 ---
 
-![](../../images/mods/haplo/misc_mapgenerator_factionbase.png)
+![](/images/mods/haplo/misc_mapgenerator_factionbase.png)
 ### Misc. MapGen FactionBase Misc. 地图生成器-派系基地
 
 > 模组版本：<i class="fa fa-puzzle-piece" aria-hidden="true"> 0.16.7</i>
@@ -136,7 +136,7 @@ Misc系列模组的研究项目均带有「Misc」前缀
 
 ---
 
-![](../../images/mods/haplo/misc_objects.jpg)
+![](/images/mods/haplo/misc_objects.jpg)
 ### Misc. Objects Misc. 武装
 
 > 模组版本：<i class="fa fa-puzzle-piece" aria-hidden="true"> 0.16.2</i>
@@ -152,7 +152,7 @@ Misc系列模组的研究项目均带有「Misc」前缀
 
 ---
 
-![](../../images/mods/haplo/misc_training.jpg)
+![](/images/mods/haplo/misc_training.jpg)
 ### Misc. Training Facility Misc. 训练设施
 
 > 模组版本：<i class="fa fa-puzzle-piece" aria-hidden="true"> 0.16.3</i>
@@ -166,7 +166,7 @@ Misc系列模组的研究项目均带有「Misc」前缀
 
 ---
 
-![](../../images/mods/haplo/misc_robot.jpg)
+![](/images/mods/haplo/misc_robot.jpg)
 ### Misc. Robot Misc. 机器人
 
 > 模组版本：<i class="fa fa-puzzle-piece" aria-hidden="true"> 0.16.5</i>
@@ -180,7 +180,7 @@ Misc系列模组的研究项目均带有「Misc」前缀
 
 ---
 
-![](../../images/mods/haplo/misc_mai.jpg)
+![](/images/mods/haplo/misc_mai.jpg)
 ### Misc. MAI Misc. 人工智能
 
 > 模组版本：<i class="fa fa-puzzle-piece" aria-hidden="true"> 0.16.2</i>
@@ -206,11 +206,11 @@ Misc系列模组的研究项目均带有「Misc」前缀
 普通型技能无学习兴趣度，升级速度缓慢  
 增强型的人工智能的技能全部「双火」（兴趣度：狂热），升级很快，但需要消耗「AI角色核心」来激活
 
-![](../../images/mods/haplo/misc_mai1.png)
-![](../../images/mods/haplo/misc_mai2.png)
-![](../../images/mods/haplo/misc_mai3.png)
-![](../../images/mods/haplo/misc_mai4.png)
-![](../../images/mods/haplo/misc_mai5.png)
+![](/images/mods/haplo/misc_mai1.png)
+![](/images/mods/haplo/misc_mai2.png)
+![](/images/mods/haplo/misc_mai3.png)
+![](/images/mods/haplo/misc_mai4.png)
+![](/images/mods/haplo/misc_mai5.png)
 
 ---
 

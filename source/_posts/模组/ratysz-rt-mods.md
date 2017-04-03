@@ -1,7 +1,7 @@
 ---
 title: "[Ratysz] RT Mods RT系列模组"
 categories: 模组
-thumbnail: ../../images/mods/ratysz/rt_capture0.png
+thumbnail: /images/mods/ratysz/rt_capture0.png
 date: 2016-12-31 03:14:00
 ---
 
